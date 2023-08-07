@@ -1,6 +1,6 @@
 # How to start example page?
 
-Then in the example directory, run all dependencies:
+Then in the example directory, install all dependencies:
 
 ### `yarn install`
 
