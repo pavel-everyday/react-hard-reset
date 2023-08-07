@@ -41,7 +41,7 @@ const OddEvenCounter = () => {
       <HardReset dependency={[startNumber]}>
         <CounterByTwo startNumber={startNumber} />
       </HardReset>
-      <h3>counter by two without HardReset wrapper - can't reset the inner state</h3>
+      <h3>counter by two without HardReset wrapper - can not reset the inner state</h3>
       <CounterByTwo startNumber={startNumber} />
     </>
   )
