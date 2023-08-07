@@ -1,6 +1,6 @@
 {
   "name": "react-hard-reset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-hard-reset is a React component that resets the state of all child components to their initial state.",
   "repository": {
     "type": "git",
